@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: obsi
+created: 2025-09-15T22:45:23+03:00
